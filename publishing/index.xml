@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publishings on Darius Wieczorek</title>
+    <link>http://del-art.ca/publishing/</link>
+    <description>Recent content in Publishings on Darius Wieczorek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://del-art.ca/publishing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LexP cover</title>
+      <link>http://del-art.ca/publishing/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/publishing/work3/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RPiro Cover</title>
+      <link>http://del-art.ca/publishing/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/publishing/work1/</guid>
+      <description>&lt;p&gt;Thie first paragraph appears over the image
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RPiro cover</title>
+      <link>http://del-art.ca/publishing/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/publishing/work4/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UJ Catatlog cover</title>
+      <link>http://del-art.ca/publishing/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/publishing/work2/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
