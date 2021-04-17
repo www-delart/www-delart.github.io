@@ -1,42 +1,177 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Darius Wieczorek</title>
+    <title>Darius Wieczorek    DEL-ART</title>
     <link>http://del-art.ca/</link>
-    <description>Recent content on Darius Wieczorek</description>
+    <description>Recent content on Darius Wieczorek    DEL-ART</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2020 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://del-art.ca/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Art 3</title>
-      <link>http://del-art.ca/art/work3/</link>
+      <title>Character Design</title>
+      <link>http://del-art.ca/cgi/character/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/art/work3/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
+      <guid>http://del-art.ca/cgi/character/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Art 2</title>
-      <link>http://del-art.ca/art/work2/</link>
+      <title>Drawings</title>
+      <link>http://del-art.ca/art/drawings/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/art/work2/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
+      <guid>http://del-art.ca/art/drawings/</guid>
+      <description>&lt;p&gt;Drawing for me is the analytical part of creative work, it is a record of the process of thoughts. The sketchiness of the drawing is not a bad feature. As the art is not a higher level of a craft, the photographic feature of the image is not paramount to the drawing study or a picture.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Photo-editing</title>
+      <link>http://del-art.ca/cgi/photo-editing/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/cgi/photo-editing/</guid>
+      <description>&lt;p&gt;The technical conditions and requirements have always been a feature that I research to be in control, to understand, and to challenge the limitations in undertaken projects, to exceed the boundaries of tools, technological solutions, and known standards.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3D Models Visualizations</title>
+      <link>http://del-art.ca/cgi/cgi_models/</link>
+      <pubDate>Thu, 05 Nov 2020 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/cgi/cgi_models/</guid>
+      <description>&lt;p&gt;Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cross-eye Stereoscopy</title>
+      <link>http://del-art.ca/art/3d_crossey/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/art/3d_crossey/</guid>
+      <description>&lt;p&gt;Cross-eyed stereoscopic imagery is the simplest technique to experience the esthetic of the spatial perception.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Painting</title>
+      <link>http://del-art.ca/art/painting/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/art/painting/</guid>
+      <description>&lt;p&gt;My painting is usually executed in oil or acrylic, and painting sketches in watercolor or temper (acrylic temper). As my biggest interest is in visual perception, I lean towards impressionist, post-impressionist, but generally, realistic art, though I am very inspired by the subjective, individualistic, and expressionistic approach.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Z-Depth based Steroscopy</title>
+      <link>http://del-art.ca/art/3d_z-depth_hood/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/art/3d_z-depth_hood/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I was quite surprised to learn 3D video editing methods by converting source footage using depth maps. But in fact, it became obvious that this method is effective and, above all, gives great control over the editing process as perfecting the visual storytelling.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Society of Canadian Artists Exhibition Catalogue</title>
+      <link>http://del-art.ca/portfolio/sca_catalog/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/portfolio/sca_catalog/</guid>
+      <description>Publication created in close cooperation with the organization where many artists deliver feedback and share their experience. At the end of a day all is taken into consideration in the design process that brings nice outcome and mutual satisfaction. Catalogue designed as a follow up to previous edition, preserving the format and the general composition of content. Basic technical challeng is to reproduce submitted artworks, that are RGB pictures, converted to CMYK using the proper color managment profile, finaly printed in offset.</description>
+    </item>
+    
+    <item>
+      <title>Society of Canadian Artists Exhibition Catalogue</title>
+      <link>http://del-art.ca/publishing/sca_catalog/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/publishing/sca_catalog/</guid>
+      <description>&lt;p&gt;Recent work for a new customer. Created in close cooperation with the organization where many artists deliver opinions and share their experience. At the end of a day all is taken into consideration in the design process that brings nice outcome and mutual satisfaction.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Promotional materials</title>
+      <link>http://del-art.ca/design/ts_promo/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/design/ts_promo/</guid>
+      <description>&lt;p&gt;Promotional materials&amp;rsquo; graphic design for public events includes: posters, flyers, invitations, press ads, tickets, event programs, social media banners, and any advertisement that may be applicable.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3D laser cut acrylic model</title>
+      <link>http://del-art.ca/art/3d_object/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/art/3d_object/</guid>
+      <description>&lt;p&gt;The spatial structure, composed of acrylic plates engraved with outlines of hands playing the harp strings.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3D Logo Animation</title>
+      <link>http://del-art.ca/cgi/3d_logo_animation/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/cgi/3d_logo_animation/</guid>
+      <description>&lt;p&gt;The revamp of the logo for the CNC workshop. The former logo was selected from the template.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3D Models Rigged for Animation</title>
+      <link>http://del-art.ca/cgi/cgi_rigged/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/cgi/cgi_rigged/</guid>
+      <description>&lt;p&gt;Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3D Models, props set as a reference for a book illustrations</title>
+      <link>http://del-art.ca/cgi/cgi_set_recreation/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/cgi/cgi_set_recreation/</guid>
+      <description>&lt;p&gt;Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Historical Monograph</title>
+      <link>http://del-art.ca/publishing/settlers_monograph/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/publishing/settlers_monograph/</guid>
+      <description>&lt;p&gt;The monograph is a fruit of long-term and extensive research work regarding the period of establishing European settlements in nowadays Ontario.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Animated models</title>
+      <link>http://del-art.ca/cgi/animation/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/cgi/animation/</guid>
+      <description>&lt;p&gt;Brief description of the digital illustration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Brand and Product Promotion, Astellas</title>
-      <link>http://del-art.ca/portfolio/work8/</link>
+      <link>http://del-art.ca/design/brand_promotion/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/portfolio/work8/</guid>
+      <guid>http://del-art.ca/design/brand_promotion/</guid>
+      <description>&lt;p&gt;Projects created and supervised for Astellas covered many areas of marketing, from the current preparation and technical supervision of infomercial publications to long-term advertising campaigns developed for periods of years. I was lucky to participate in projects following the merger of Yamanouchi and Fujisawa pharmaceutical companies that created Astellas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Brand and Product Promotion, Astellas</title>
+      <link>http://del-art.ca/portfolio/brand_promotion/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/portfolio/brand_promotion/</guid>
       <description>&lt;p&gt;Projects created and supervised for Astellas covered many areas of marketing, from the current preparation and technical supervision of infomercial publications to long-term advertising campaigns developed for periods of years. I was lucky to participate in projects following the merger of Yamanouchi and Fujisawa pharmaceutical companies that created Astellas.&lt;/p&gt;</description>
     </item>
     
@@ -50,48 +185,52 @@
     </item>
     
     <item>
-      <title>Design 1</title>
-      <link>http://del-art.ca/design/sample1/</link>
+      <title>CD Covers, Labels, Packaging</title>
+      <link>http://del-art.ca/publishing/work9_cd_labels/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/design/sample1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Design 2</title>
-      <link>http://del-art.ca/design/sample2/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>http://del-art.ca/design/sample2/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Digital illustration</title>
-      <link>http://del-art.ca/art/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>http://del-art.ca/art/work1/</guid>
-      <description>&lt;p&gt;Brief description of the digital illustration.
-&lt;/p&gt;</description>
+      <guid>http://del-art.ca/publishing/work9_cd_labels/</guid>
+      <description>&lt;p&gt;Projects for digital and music publishing to a large extent rely on maintaining a high level of branding consistency and color uniformity of publications made for one product in many media. The designed layout is printed in the offset, screenprinting, pad-printing, or in the digital printing technique. Very often the customer is willing to take advantage of the possibilities offered by the mirror surface of the CD. Often the packaging is made with the use of additional refining techniques. Custom creative folding and die-cutting can be used to create a unique product.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Digital illustrations for Gestalt, psychology magazine</title>
-      <link>http://del-art.ca/portfolio/work2/</link>
+      <link>http://del-art.ca/art/gestalt_cg_collage/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/portfolio/work2/</guid>
-      <description>&lt;p&gt;Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>http://del-art.ca/art/gestalt_cg_collage/</guid>
+      <description>&lt;p&gt;Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Flagship Gallery Marketing Collateral</title>
+      <title>Digital illustrations for Gestalt, psychology magazine</title>
+      <link>http://del-art.ca/portfolio/gestalt_cg_collage/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/portfolio/gestalt_cg_collage/</guid>
+      <description>&lt;p&gt;Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Photography Restoration</title>
+      <link>http://del-art.ca/cgi/photo-restoration/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/cgi/photo-restoration/</guid>
+      <description>&lt;p&gt;Projects executed for Cabbagetown Regent Park Community Museum were the opportunity to exercise publishing works in many media. One of the projects was renewing and updating the museum&amp;rsquo;s website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Drawings: Visual Elements for Graphic Design</title>
+      <link>http://del-art.ca/art/drawings_visuals/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/art/drawings_visuals/</guid>
+      <description>&lt;p&gt;The drawing is the basis for any genre of art or a visual form of expression. It is very advantageous to use sketches and drawings in the design phase as well as in the final product.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flagship Gallery Marketing Collaterals</title>
       <link>http://del-art.ca/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
@@ -100,62 +239,111 @@
     </item>
     
     <item>
-      <title>LexP cover</title>
-      <link>http://del-art.ca/publishing/work3/</link>
+      <title>Logo design</title>
+      <link>http://del-art.ca/design/logos/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/publishing/work3/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
+      <guid>http://del-art.ca/design/logos/</guid>
+      <description>&lt;p&gt;Gallery X logo is actually refining of the originally proposed design. The alternative developments are included in the final proposition as subtle polishes, rectified character, and hints and motions of additional meaning.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>RPiro Cover</title>
-      <link>http://del-art.ca/publishing/work1/</link>
+      <title>Optical Illusion</title>
+      <link>http://del-art.ca/art/op_art_motives/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/publishing/work1/</guid>
-      <description>&lt;p&gt;Thie first paragraph appears over the image
-&lt;/p&gt;</description>
+      <guid>http://del-art.ca/art/op_art_motives/</guid>
+      <description>&lt;p&gt;Optical illusion is a meaningful manifestation of our perception, illustration of most basic phenomena. It is the opening of our thought on the proces of development, and consequently enabling deep reflection on cognitive abilities and worldview foundations. Visual perception is the source and opportunity to develop and work on experiences that are very close, intimate, and subjective, easily accessible to our reflection, and at the same time those are sensations common and available for everybody interested.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>RPiro cover</title>
-      <link>http://del-art.ca/publishing/work4/</link>
+      <title>Packaging, Covers, Labels</title>
+      <link>http://del-art.ca/publishing/lexp_covers/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/publishing/work4/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
+      <guid>http://del-art.ca/publishing/lexp_covers/</guid>
+      <description>&lt;p&gt;The cooperation started with the project of the graphic design and adaptation for the multimedia program of the startup company, developer of electronic publications. In the same time the legal publications became the main products of the company and in a short time a very diversified range of editions.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Sample work</title>
-      <link>http://del-art.ca/design/work4/</link>
+      <title>Pharmaceutical editorial materials</title>
+      <link>http://del-art.ca/publishing/editorials/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/design/work4/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
+      <guid>http://del-art.ca/publishing/editorials/</guid>
+      <description>&lt;p&gt;The set of current ads and infomercials prepared for print by any publisher indicated by the customer, for various media, in various formats. As an art director, I have tailored these ads to the specifications of the publishers selected by the marketing department of the pharmaceutical companies.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Society of Canadian Artists Exhibition Catalogue</title>
-      <link>http://del-art.ca/portfolio/work6/</link>
+      <title>Polly of Bridgewater Farm</title>
+      <link>http://del-art.ca/publishing/polly/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/portfolio/work6/</guid>
-      <description>&lt;p&gt;Recent work for a new customer. Created in close cooperation with the organization where many artists deliver opinions and share their experience. At the end of a day all is taken into consideration in the design process that brings nice outcome and mutual satisfaction.&lt;/p&gt;</description>
+      <guid>http://del-art.ca/publishing/polly/</guid>
+      <description>&lt;p&gt;The work on publishing this book was extremely fast and intense. At the same time, my wife and I worked on the general publishing concept, we designed the layout of the pages, the cover, selected the illustrations, and prepared them for printing. At the author&amp;rsquo;s request, we conducted research on references to illustrations that were essential and necessary for the content of the book.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>UJ Catatlog cover</title>
-      <link>http://del-art.ca/publishing/work2/</link>
+      <title>Presentation&#39;s Backgrounds and Elements</title>
+      <link>http://del-art.ca/design/design6_ppt_bg/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/publishing/work2/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
+      <guid>http://del-art.ca/design/design6_ppt_bg/</guid>
+      <description>&lt;p&gt;PowerPoint is a leading presentation tool for most companies. It is great when it is used like any other marketing tool according to branding developed for the business.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Residence &#39;Under the Sun&#39;</title>
+      <link>http://del-art.ca/publishing/work7_kamienica/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/publishing/work7_kamienica/</guid>
+      <description>&lt;p&gt;The brochure created from scratch for the developer company starting a big renovation project in unique circumstances of the bylaws on the protection of architectural monuments. The dilapidated historic tenement house was completely reconstructed. It is safe to say only the front wall was in conditions allowing the preservation of the original structure.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>http://del-art.ca/design/social_media/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/design/social_media/</guid>
+      <description>&lt;p&gt;The ever-evolving social media domain is an important means of promotion and publicity.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Web Icons design</title>
+      <link>http://del-art.ca/design/design5_icons/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/design/design5_icons/</guid>
+      <description>&lt;p&gt;Projects executed for Cabbagetown Regent Park Community Museum were the opportunity to exercise publishing works in many media. One of the projects was renewing and updating the museum&amp;rsquo;s website.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Website Design</title>
+      <link>http://del-art.ca/design/web_design/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/design/web_design/</guid>
+      <description>&lt;p&gt;Website designed and developed for the online store. All visuals for the WordPress, WooCommerce site are created from scratch.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zrodlo - Polish Folk Song and Dance Ensemble</title>
+      <link>http://del-art.ca/design/community_ensamble_marketing/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/design/community_ensamble_marketing/</guid>
+      <description>&lt;p&gt;The set of promotional materials including flyers, invitations, posters, banners, tickets for the anniversary Gala. Flyers were designed as double language in a double-sided layout. The designing work was followed by print supervision in the offset print shop where the large-volume print of flyers and invitations was performed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Book Covers</title>
+      <link>http://del-art.ca/publishing/book_covers/</link>
+      <pubDate>Fri, 05 Nov 2010 18:25:22 +0530</pubDate>
+      
+      <guid>http://del-art.ca/publishing/book_covers/</guid>
+      <description>&lt;p&gt;The book covers were prominent work from the beginning of creating a design studio, made mostly for the one publishing house growing from producing one title in a couple of months to few new books in a week. Together with my wife, we have designed more than 300 covers just for the biggest customer and the next couple of hundred for other publishers.&lt;/p&gt;</description>
     </item>
     
   </channel>
