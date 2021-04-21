@@ -6,19 +6,10 @@
     <description>Recent content in Cgis on Darius Wieczorek    DEL-ART</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2020 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://del-art.ca/cgi/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Character Design</title>
-      <link>http://del-art.ca/cgi/character/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>http://del-art.ca/cgi/character/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Photo-editing</title>
@@ -27,15 +18,6 @@
       
       <guid>http://del-art.ca/cgi/photo-editing/</guid>
       <description>&lt;p&gt;The technical conditions and requirements have always been a feature that I research to be in control, to understand, and to challenge the limitations in undertaken projects, to exceed the boundaries of tools, technological solutions, and known standards.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>3D Models Visualizations</title>
-      <link>http://del-art.ca/cgi/cgi_models/</link>
-      <pubDate>Thu, 05 Nov 2020 18:25:22 +0530</pubDate>
-      
-      <guid>http://del-art.ca/cgi/cgi_models/</guid>
-      <description>&lt;p&gt;Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,7 +35,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>http://del-art.ca/cgi/cgi_rigged/</guid>
-      <description>&lt;p&gt;Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Rigging is a creation of a skeletal structure for a model to allow control and manipulation for animation.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -62,16 +44,16 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>http://del-art.ca/cgi/cgi_set_recreation/</guid>
-      <description>&lt;p&gt;Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The only reference delivered for the important illustration was a single scan of a photo printed in some newspaper showing the Jordan Harbour year 1828. This kind of source reference can only be obtained by querying the archives, there is no such material available on the internet.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Animated models</title>
-      <link>http://del-art.ca/cgi/animation/</link>
+      <title>Cantabile Choir Poster</title>
+      <link>http://del-art.ca/cgi/stereoscopic_poster_oratorio/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://del-art.ca/cgi/animation/</guid>
-      <description>&lt;p&gt;Brief description of the digital illustration.&lt;/p&gt;</description>
+      <guid>http://del-art.ca/cgi/stereoscopic_poster_oratorio/</guid>
+      <description>&lt;p&gt;A project iniciated by referencing to sketch drawing, depicting crucified Christ.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -80,7 +62,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>http://del-art.ca/cgi/photo-restoration/</guid>
-      <description>&lt;p&gt;Projects executed for Cabbagetown Regent Park Community Museum were the opportunity to exercise publishing works in many media. One of the projects was renewing and updating the museum&amp;rsquo;s website.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The photo restoration process may be tedious, but actually, it is a one-of-a-kind opportunity to restore the destroyed images.&lt;/p&gt;</description>
     </item>
     
   </channel>
