@@ -1,0 +1,43 @@
+Ilustracje do umieszczenie na stronie:
+w nazwie jest numeracja i glowne przyporzadkowanie do podstrony
+czyli
+01...Home
+02...Art
+03...Publishing
+04...Graphic_Design
+
+Na poszczegolnych podstronach bedzie od 3-4 do 8 ilustracji, ktore zasadniczo bylyby otwarciem kolejnej glebszej warstwy / podstrony;
+
+Rozmiar JPGow jest wziety z twojego wzoru
+i jest to 318 x 437 pixeli, moge to zmienic, jezeli ma byc inny;
+
+Teksty, ktore mialyby pojawic sie przy najechaniu myszka na ilustracje
+i (moze rozbudowane, po wejsciu na dany temat / podstrone)
+dosle ci, ale mozesz uzyc jakakolwiek symulacje.
+
+Jest tam tez animowany GIF, 
+elephant_run3.gif
+moze za duzy objetoscia, ale
+chcialbym zeby byla mozliwosc umieszczania animacji i wideo;
+sprobuj go gdzies umiescic, moze na Home
+napisz co o tym myslisz;
+
+Obecnie przesle ci tylko kilka JPGow, ale uzyj je duplikujac, tak aby wypelnic makiete strony, przynajmniej jedno pietro nizej to umiesciles obecnie;
+
+Na stronie Home, uzyj 4 JPGi z litera A, czyli 01_A.., 02_A.., itd,
+i potem tez uzyj te JPGi na kolejnych podstronach: Art, Publishing i Graphic Design;
+
+Mam nadzieje, ze to w miare jasne;
+Bardzo zalezy mi aby ta strona mogla byc w miare latwo i dowolnie uzupelniana i ewentualnie przearanzowana w swoim schemacie, na wypadek, gdyby powstala koniecznosc dodania jeszcze innych podstron;
+
+Obecnie, mysle, ze bylyby nastepujace kategorie-podkategorie:
+01_Home:
+Aktualne projekty, rodzaj bloga, wybrane projekty z podkategorii;
+02_Art:
+Rysunek, Malarstwo, Stereoskopia, Modelowanie (lub 3D);
+03_Publishing:
+Books, (mostly) ale moze rowniez towarzyszace prace, jak Posters, Covers, Packaging lub CD Covers;
+04_Graphic Design:
+to byloby najrozleglejsze jesli chodzi o podtematy;
+
+

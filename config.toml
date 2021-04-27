@@ -1,0 +1,68 @@
+baseURL = "https://del-art.ca/"
+languageCode = "en-us"
+title = "Darius Wieczorek    DEL-ART"
+theme = "hugo-creative-portfolio-theme"
+publishDir = "public"
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "sea"
+  description = "Darius Wieczorek"
+  copyright = "&copy;2021 Darius Wieczorek"
+  sidebarAbout = [
+    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "Originally from Krakow, currently based in Toronto."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "darius.via@gmail.com"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Art"
+  url = "art/"
+
+  [[params.navlinks]]
+  name = "Publishing"
+  url = "publishing/"
+
+  [[params.navlinks]]
+  name = "Graphic Design"
+  url = "design/"
+
+  [[params.navlinks]]
+  name = "Digital"
+  url = "cgi/"
+
+  [[params.navlinks]]
+  name = "About Me"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  email         = "darius.via@gmail.com"
+  linkedin      = "https://www.linkedin.com/in/darius-wieczorek-8a2b2560/"
