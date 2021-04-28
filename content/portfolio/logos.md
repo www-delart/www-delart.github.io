@@ -4,12 +4,12 @@ draft = false
 image = "img/design/Logos_Prtf.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Logo design"
-weight = 0
+weight = 3
 description = "Visual identity for new enterprises, new products, designed or upgraded marketing tools."
 cover = "img/design/Gall-X/Vignett_animation.gif"
 +++
 
-Gallery X logo is actually refining of the originally proposed design. The alternative developments are included in the final proposition as subtle polishes, rectified character, and hints and motions of additional meaning.
+Gallery X logo is actually refining the originally proposed design. The alternative developments are included in the final proposition as subtle polishes, rectified character, and hints and notions of additional meaning.
 <!--more-->
 
 The optional development and testing explored the ideas of accumulating multiple artistic currents and at the same time the disposition of expanding creativity into the outside environment.

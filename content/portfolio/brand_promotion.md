@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/astellas/04_A_Graphic_Design_Visuals_Astellas.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Brand and Product Promotion, Astellas"
-weight = 0
+weight = 1
 description = "Projects created for a dermatological branch of a pharmaceutical company covering many areas of marketing campaigns. The long-term projects, the biggest scope, the highest technical advancement."
 cover = "img/portfolio/astellas/rollup_4_face.jpg"
 +++
