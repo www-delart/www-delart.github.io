@@ -5,7 +5,7 @@ image = "img/design/Websites_th.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Website Design"
 weight = 0
-description = "Websites designed, maintained, administered, updated"
+description = "Websites designed, maintained, administered, updated ..."
 cover = "img/design/web_design/vignette_web.jpg"
 +++
 

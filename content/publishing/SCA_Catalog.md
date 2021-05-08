@@ -5,11 +5,11 @@ image = "img/portfolio/SCA_Catalog_Project.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Society of Canadian Artists Exhibition Catalogue"
 weight = 4
-description = "Recent work for a new customer. Created in close cooperation with the organization where many artists deliver opinions and share their experience. At the end of a day all is taken into consideration in the design process that brings nice outcome and mutual satisfaction."
+description = "Recent work for a new customer, a challenging job and effective solutions ..."
 cover = "img/portfolio/sca/RGB-to-CMYK.jpg"
 +++
 
-Recent work for a new customer. Created in close cooperation with the organization where many artists deliver opinions and share their experience. At the end of a day all is taken into consideration in the design process that brings nice outcome and mutual satisfaction.
+Publication created in close cooperation with the organization where many artists deliver feedback and share their experience. At the end of a day all is taken into consideration in the design process that brings nice outcome and mutual satisfaction.
 
 <!--more-->
 Catalogue designed as a follow up to previous edition, preserving the format and the general composition of content.

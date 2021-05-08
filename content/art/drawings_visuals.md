@@ -5,12 +5,14 @@ image = "img/art/Art_draw_visual_thmb.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Drawings: Visual Elements for Graphic Design"
 weight = 0 
-description = "Part of marketing identity for long term promotional campaigns was proposed and executed in drawing technics: pencil, pen, crayons."
+description = "For many promotional campaigns the basic ideas are proposed and executed in drawing ..."
 cover = "img/art/drawings/Calendar_jogglers_vignette.jpg"
 +++
 
 The drawing is the basis for any genre of art or a visual form of expression. It is very advantageous to use sketches and drawings in the design phase as well as in the final product.
+
 <!--more-->
+Quite important part of marketing identity for many long term promotional campaigns was proposed and executed in drawing technics: pencil, pen, crayons.
 
 ![sample image](/img/art/drawings/Calendar_jogglers.jpg)
 

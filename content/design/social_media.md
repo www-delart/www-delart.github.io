@@ -5,11 +5,13 @@ image = "img/design/social_media.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Social Media"
 weight = 0
-description = "Banners designed for various Social Media. Advertising materials developed for simultaneous use on many platforms in promoting current events."
+description = "Banners designed for various Social Media ..."
 cover = "img/design/s-media/Media_collaterals.jpg"
 +++
 
 The ever-evolving social media domain is an important means of promotion and publicity.
+
+Banners designed for various Social Media. Advertising materials developed for simultaneous use on many platforms in promoting current events.
 <!--more-->
 
 Despite the free communication platform, a professional approach to the message is, as always, a recognizable feature of the message, a quality of the narrative that cannot be ignored.

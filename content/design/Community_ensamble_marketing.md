@@ -5,7 +5,7 @@ image = "img/design/zrodlo/zrodlo_folder.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Zrodlo - Polish Folk Song and Dance Ensemble"
 weight = 0
-description = "Flyers, CD labels and covers, posters, tickets, memorabilia publications."
+description = "Flyers, CD labels and covers, posters, tickets, memorabilia publications ..."
 cover = "img/design/zrodlo/vignette_banner.jpg"
 +++
 

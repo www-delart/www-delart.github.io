@@ -5,7 +5,7 @@ image = "img/art/Art_SterEO_thmb.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Cross-eye Stereoscopy"
 weight = 2
-description = "Cross-eye stereoscopic imagery is the simplest technique to experience the esthetic of the spatial perception."
+description = "Cross-eye stereoscopic imagery - travesty made as a gift for a friend ..."
 cover = "img/art/Ela_cross_1.jpg"
 +++
 

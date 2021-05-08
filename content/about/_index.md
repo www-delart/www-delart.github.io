@@ -20,10 +20,11 @@ I have a number of years of experience in the field of publishing, printing, and
 
 Hobby experience in photography, stereoscopy, and visual perception.
 
-Friendly and reliable, works well in a team setting, eager to learn new concepts especially in the area of visual perception.
+Friendly and reliable, work well in a team setting, eager to learn new concepts especially in the area of visual perception.
 
 #### Education
 
-* Academy of Fine Arts Diploma in Painting as a Major and Animated Drawing as a secondary subject.
-* Sheridan College, Computer Animation.
-* High School of Fine Arts, Industrial Design.
+* Mohawk College, Hamilton, ON, CNC Programming and CNC Operator programs
+* Sheridan College, Oakville, ON, Computer Animation
+* Academy of Fine Arts Diploma, Krakow, Poland, major in Painting and minor in Animated Drawing
+* High School of Visual Arts, Lublin, Poland, Industrial Design profile

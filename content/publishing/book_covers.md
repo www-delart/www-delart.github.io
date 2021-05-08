@@ -5,7 +5,7 @@ image = "img/portfolio/Publishing_UJ_Catalog_cover.jpg"
 date = "2010-11-05T18:25:22+05:30"
 title = "Book Covers"
 weight = 0
-description = "A prominent part of the publishing graphic design projects was focused on book covers, which were created in the total amount of over three hundred for just only the biggest publishing house cooperating in a span of few years."
+description = "A prominent part of the publishing projects was focused on book covers ..."
 cover = "img/publishing/Book_covers/book_cov_vign.jpg"
 +++
 

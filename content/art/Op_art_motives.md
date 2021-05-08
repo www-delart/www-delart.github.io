@@ -5,7 +5,7 @@ image = "img/art/Op_Art_thmb.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Optical Illusion"
 weight = 0
-description = "Optical illusion is a meaningful manifestation of our perception, illustration of most basic phenomena, opening our reflection on the proces of development, and consequently, of the worldview."
+description = "The optical illusion is a meaningful manifestation of our perception and its boundaries ..."
 cover = "img/art/op-art/Wign_op-art_pattern_a.jpg"
 +++
 

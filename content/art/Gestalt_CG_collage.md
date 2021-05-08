@@ -5,7 +5,7 @@ image = "img/art/Art_Digital_illustration.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Digital illustrations for Gestalt, psychology magazine"
 weight = 0
-description = "Those artworks were selected to illustrate articles in magazine printed in DEL Art printshop."
+description = "Artworks selected to illustrate articles in magazine printed in DEL-Art printshop ..."
 cover = "img/portfolio/mp/Illustr_1.jpg"
 +++
 

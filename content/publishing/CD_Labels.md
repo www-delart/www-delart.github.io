@@ -5,7 +5,7 @@ image = "img/publishing/CD_Labels_Th.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "CD Covers, Labels, Packaging"
 weight = 0
-description = "Sets of layouts designed for electronic data media, covers, labels, booklets layout."
+description = "Sets of layouts designed for electronic data media, covers, labels, booklets layout ..."
 cover = "img/publishing/packaging/sfp_vignette.jpg"
 +++
 

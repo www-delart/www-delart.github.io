@@ -5,7 +5,7 @@ image = "img/design/RPM_ikons.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Web Icons design"
 weight = 0
-description = "Web design elements, visual information and identity."
+description = "Web design elements, visual information and identity ..."
 cover = "img/design/web_icons/vignette-compass.jpg"
 +++
 

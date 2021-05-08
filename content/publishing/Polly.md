@@ -5,9 +5,11 @@ image = "img/publishing/Cover_entry.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Polly of Bridgewater Farm"
 weight = 0
-description = "Publishing project including the design of the book's layout, selection of materials, preparation of illustrations, editorial makeup, author's supervision of the printing process, and also subsequently accompanying promotional activities."
+description = "Publishing project including the design and supervision of the printing process ..."
 cover = "img/publishing/Polly/Wignet_inside_cover.jpg"
 +++
+
+Publishing project including the design of the book's layout, selection of materials, preparation of illustrations, editorial makeup, author's supervision of the printing process, and also subsequently accompanying promotional activities.
 
 The work on publishing this book was extremely fast and intense. At the same time, my wife and I worked on the general publishing concept, we designed the layout of the pages, the cover, selected the illustrations, and prepared them for printing. At the author's request, we conducted research on references to illustrations that were essential and necessary for the content of the book.
 <!--more-->

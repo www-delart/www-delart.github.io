@@ -5,9 +5,11 @@ image = "img/digital_images/CGI_illustr.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "3D Models, props set as a reference for a book illustrations"
 weight = 0
-description = "3D modeling used for reconstruction references to facilitate the rendering of illustrations for the book."
+description = "3D modeling for reconstruction references to facilitate the illustrations for the book ..."
 cover = "img/digital_images/visual_reference/vignette_ship.jpg"
 +++
+
+3D modeling used for reconstruction references to facilitate the rendering of illustrations for the book.
 
 The only reference delivered for the important illustration was a single scan of a photo printed in some newspaper showing the Jordan Harbour year 1828. This kind of source reference can only be obtained by querying the archives, there is no such material available on the internet.
 
