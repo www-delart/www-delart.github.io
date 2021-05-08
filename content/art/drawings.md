@@ -5,7 +5,7 @@ image = "img/art/Drawings_thmb.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Drawings"
 weight = 1
-description = "Drawing is the analytical part of creative work, it is a record of the process of thoughts. The sketchiness of the drawing is not a dismissive feature. As the art is not a higher level of a craft..."
+description = "Drawing is the analytical part of creative work, it is a record of the process of thoughts ..."
 cover = "img/art/drawings/06_04_01.jpg"
 +++
 

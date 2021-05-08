@@ -5,7 +5,7 @@ image = "img/design/Logos_Prtf.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Logo design"
 weight = 3
-description = "Visual identity for new enterprises, new products, designed or upgraded marketing tools."
+description = "Visual identity for new enterprises, new products, designed or upgraded ..."
 cover = "img/design/Gall-X/Vignett_animation.gif"
 +++
 

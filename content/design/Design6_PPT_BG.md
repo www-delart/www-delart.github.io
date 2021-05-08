@@ -5,7 +5,7 @@ image = "img/design/PPT_Th.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Presentation's Backgrounds and Elements"
 weight = 0
-description = "Screen elements for presentations, and presentations developed for multiple corporate usage."
+description = "Screen elements for presentations developed for multiple corporate usage ..."
 cover = "img/design/ppt/vignette_PPT.jpg"
 +++
 

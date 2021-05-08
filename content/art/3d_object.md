@@ -5,7 +5,7 @@ image = "img/portfolio/modeling-David.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "3D laser cut acrylic model"
 weight = 0
-description = "Work designed and executed for group exhibition on the Psalms of David."
+description = "Work designed and executed for group exhibition on the Psalms of David ..."
 cover = "img/art/davids_harph/Winieta_DH_model_1.jpg"
 +++
 

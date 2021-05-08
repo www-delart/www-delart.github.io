@@ -5,7 +5,7 @@ image = "img/art/painting_n.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Painting"
 weight = 2
-description = "I lean towards impressionist, post-impressionist, but generally, realistic art, though I am very inspired by the subjective, individualistic, and expressionistic approach."
+description = "I lean towards impressionist, post-impressionist, but generally, realistic art ..."
 cover = "img/art/painting/Roze_740.jpg"
 +++
 

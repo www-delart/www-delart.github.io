@@ -5,7 +5,7 @@ image = "img/publishing/Editorial-Publishing.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Pharmaceutical editorial materials"
 weight = 0
-description = "Developed for any publisher indicated by the customer, for various media, in various formats. As a lead art director, I have tailored these ads to the specifications of the publishers currently selected by the marketing department of the pharmaceutical company."
+description = "Developed and tailored to the specifications selected by the marketing department ..."
 cover = "img/publishing/Astellas/wignet-sBCC.jpg"
 +++
 

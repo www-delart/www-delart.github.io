@@ -5,11 +5,13 @@ image = "img/digital_images/Rigged_thmb.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "3D Models Rigged for Animation"
 weight = 0
-description = "Rigging is a way to set the frames, constraints, and controllers for the management and direction of animation of simple objects and complex bodies."
+description = "Rigging - constraints, and controllers for the animation ..."
 cover = "img/digital_images/rigged_models/Panicek_vignette2.jpg"
 +++
 
 Rigging is a creation of a skeletal structure for a model to allow control and manipulation for animation.
+
+Rigging is a way to set the frames, constraints, and controllers for the management and direction of animation of simple objects and complex bodies.
 
 <!--more-->
 

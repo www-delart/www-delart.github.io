@@ -5,9 +5,11 @@ image = "img/publishing/Lex_covers/Publishing-cover.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Packaging, Covers, Labels"
 weight = 0
-description = "The series of the booklet' and CD-case' covers of a company introducing groundbreaking software for browsing electronic documents using natural language inquiry on the basis of PLS."
+description = "The series of the booklet' and CD-case' covers ..."
 cover = "img/publishing/Lex_covers/Lex_vignette.jpg"
 +++
+
+The series of the booklet' and CD-case' covers of a company introducing groundbreaking software for browsing electronic documents using natural language inquiry on the basis of PLS.
 
 The cooperation started with the project of the graphic design and adaptation for the multimedia program of the startup company, developer of electronic publications. In the same time the legal publications became the main products of the company and in a short time a very diversified range of editions.
 <!--more-->

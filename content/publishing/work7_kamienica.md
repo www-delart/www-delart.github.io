@@ -5,9 +5,11 @@ image = "img/design/kamienica/front_Kamienica.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Residence 'Under the Sun'"
 weight = 0
-description = "Promotional brochure for a revival development project. Residencial city house, part of street frontage, in the prominent Old Krakow District."
+description = "Promotional brochure for a revival project... in the prominent Old Krakow District ..."
 cover = "img/publishing/tenement/tenement_vignette.jpg"
 +++
+
+Promotional brochure for a revival development project. Residencial city house, part of street frontage, in the prominent Old Krakow District.
 
 The brochure created from scratch for the developer company starting a big renovation project in unique circumstances of the bylaws on the protection of architectural monuments. The dilapidated historic tenement house was completely reconstructed. It is safe to say only the front wall was in conditions allowing the preservation of the original structure.
 

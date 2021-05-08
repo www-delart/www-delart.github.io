@@ -5,7 +5,7 @@ image = "img/portfolio/Flagship_collaterals_thumb.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Flagship Gallery Marketing Collaterals"
 weight = 0
-description = "Those artworks bring more individual features and statements and have been used as input to the artists' collaborative gallery."
+description = "Artworks that bring more individual features and statements ..."
 cover = "img/portfolio/flagship/Place_of_Rest_Vignet.jpg"
 +++
 

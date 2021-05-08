@@ -5,7 +5,7 @@ image = "img/digital_images/KZSO_climber_thmb.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Photo-editing"
 weight = 1
-description = "Photomontage edited to render visual for large format printing."
+description = "Photomontage edited to render visual for large format printing ..."
 cover = "img/digital_images/KZSO/vignette_large_format.jpg"
 +++
 

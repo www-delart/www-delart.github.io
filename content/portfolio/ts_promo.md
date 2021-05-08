@@ -5,9 +5,11 @@ image = "img/design/ts/ts-entry.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Promotional materials"
 weight = 5
-description = "Low-budget projects implemented for the needs of current events. Usually prepared on the basis of provided amateur-quality photographs and low-resolution references of sponsors' corporate materials."
+description = "Low-budget projects implemented for the needs of current and annual events ..."
 cover = "img/design/ts/vignette_flyer.jpg"
 +++
+
+Low-budget projects implemented for the needs of current and annual events. Usually prepared on the basis of provided amateur-quality photographs and low-resolution references of sponsors' corporate materials.
 
 Promotional materials' graphic design for public events includes: posters, flyers, invitations, press ads, tickets, event programs, social media banners, and any advertisement that may be applicable.
 <!--more-->

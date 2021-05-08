@@ -5,9 +5,11 @@ image = "img/portfolio/03_A_Publishing_RPiro_cover.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "A Historical Monograph"
 weight = 0
-description = "Publishing cooperation with author of a groundbreaking publication on early settlement, illustrated with reconstructions based on historical literary evidence."
+description = "Publication on early settlement illustrated with reconstructions based on historical evidence ..."
 cover = "img/publishing/Piro/Wignet_book_ad.jpg"
 +++
+
+Publishing cooperation with author of a groundbreaking publication on early settlement, illustrated with reconstructions based on historical literary evidence.
 
 The monograph is a fruit of long-term and extensive research work regarding the period of establishing European settlements in nowadays Ontario.
 <!--more-->

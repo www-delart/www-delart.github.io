@@ -5,7 +5,7 @@ image = "img/digital_images/3D_logo/CGI_3D_anim.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "3D Logo Animation"
 weight = 0
-description = "Rebranding elements: new logo design for print and online marketing"
+description = "Rebranding elements: new logo design for print and online marketing ..."
 cover = "img/digital_images/3D_logo/vignette_CNC_logo.jpg"
 +++
 
