@@ -5,16 +5,15 @@
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
     <ul class="sidebar-menu">
-      {{ $url := .Site.BaseURL }}
       {{ range .Site.Params.navlinks }}
-        <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
+        <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
       {{ end }}
     </ul>
 
     <div class="copyright">
       <p class="credit">
         {{ with .Site.Params.copyright }}
-          {{ . | safeHTML }}
+          {{ . | safeHTML }} |
         {{ end }}
         {{ partial "attribution.html" . }}
       </p>
