@@ -4,7 +4,7 @@ draft = false
 image = "img/publishing/Cover_entry.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Polly of Bridgewater Farm"
-weight = 0
+weight = 1
 description = "Publishing project including the design and supervision of the printing process ..."
 cover = "img/publishing/Polly/Wignet_inside_cover.jpg"
 +++

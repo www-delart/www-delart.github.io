@@ -1,17 +1,22 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "About Us"
 +++
 
-I am a visual artist and a graphic designer, living in Hamilton, Ontario.
+We are a visual artists and a graphic designers, living in Hamilton, Ontario. More than 10 years of experience in the field of publishing, printing, and advertisement.
 
-![sample image](/img/portfolio/Darek_portrait.jpg)
+![sample image](/img/portfolio/Darek_portrait_.jpg)
 
-I have a number of years of experience in the field of publishing, printing, and advertisement.
-
-* Experienced in stereoscopic 3D conversion, modeling, editing.
 * Professional experience in Adobe Photoshop, InDesign, Illustrator, PageMaker and CorelDraw.
 * Worked on a traditional hand-drawn movie, drew BG plates and MG characters.
+* Web design experience.
+* Understanding of graphic design principles and ability to follow brand guidelines.
+* Creative problem solving. Strong interpersonal skills to deal with clients.
+* Ability to work independently or within a team environment.
+* Ability to handle multiple projects simultaneously.
+* Ability to deliver effectively under time constraints and within deadlines.
+* Ability to work and collaborate with the existing team of designers
+* Experienced in stereoscopic 3D conversion, modeling, editing.
 * Skilled in Maya, Adobe CS, Nuke, Mocha, FlexiSign.
 * Practiced Artistic Painting in Oil and Acrylic, Life Drawing.
 * 3D Modeling, 3D Printing, 3D Compositing.
