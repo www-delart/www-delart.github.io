@@ -5,7 +5,7 @@ title = "About me"
 
 I am a visual artist and a graphic designer, living in Hamilton, Ontario.
 
-![sample image](/img/portfolio/Darek_portrait.jpg)
+![sample image](/img/portfolio/D+E_portrait.jpg)
 
 I have a number of years of experience in the field of publishing, printing, and advertisement.
 
