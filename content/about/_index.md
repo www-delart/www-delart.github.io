@@ -1,13 +1,14 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "About D-EL Art"
 +++
 
-I am a visual artist and a graphic designer, living in Hamilton, Ontario.
+We are visual artists and graphic designers living in Hamilton, Ontario.
+
+We have several years of experience in art, graphic design, and advertisement, <br>
+including estimates and supervision, especially in printing and digital publishing.
 
 ![sample image](/img/portfolio/D+E_portrait.jpg)
-
-I have a number of years of experience in the field of publishing, printing, and advertisement.
 
 * Experienced in stereoscopic 3D conversion, modeling, editing.
 * Professional experience in Adobe Photoshop, InDesign, Illustrator, PageMaker and CorelDraw.
