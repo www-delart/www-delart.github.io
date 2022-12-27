@@ -1,3 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arts on Darius Wieczorek    DEL-ART</title><link>https://del-art.ca/art/</link><description>Recent content in Arts on Darius Wieczorek    DEL-ART</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate><atom:link href="https://del-art.ca/art/index.xml" rel="self" type="application/rss+xml"/><item><title>Drawings</title><link>https://del-art.ca/art/drawings/</link><pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate><guid>https://del-art.ca/art/drawings/</guid><description>&lt;p>Drawing for me is the analytical part of creative work, it is a record of the process of thoughts. The sketchiness of the drawing is not a bad feature. As the art is not a higher level of a craft, the photographic feature of the image is not paramount to the drawing study or a picture.&lt;/p></description></item><item><title>Cross-eye Stereoscopy</title><link>https://del-art.ca/art/3d_crossey/</link><pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate><guid>https://del-art.ca/art/3d_crossey/</guid><description>&lt;p>Cross-eyed stereoscopic imagery is the simplest technique to experience the esthetic of the spatial perception.&lt;/p></description></item><item><title>Painting</title><link>https://del-art.ca/art/painting/</link><pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate><guid>https://del-art.ca/art/painting/</guid><description>&lt;p>My painting is usually executed in oil or acrylic, and painting sketches in watercolor or temper (acrylic temper). As my biggest interest is in visual perception, I lean towards impressionist, post-impressionist, but generally, realistic art, though I am very inspired by the subjective, individualistic, and expressionistic approach.&lt;/p></description></item><item><title>Z-Depth based Steroscopy</title><link>https://del-art.ca/art/3d_z-depth_hood/</link><pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate><guid>https://del-art.ca/art/3d_z-depth_hood/</guid><description>&lt;blockquote>
-&lt;p>I was quite surprised to learn 3D video editing methods by converting source footage using depth maps. But in fact, it became obvious that this method is effective and, above all, gives great control over the editing process as perfecting the visual storytelling.&lt;/p>
-&lt;/blockquote></description></item><item><title>3D laser cut acrylic model</title><link>https://del-art.ca/art/3d_object/</link><pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate><guid>https://del-art.ca/art/3d_object/</guid><description>&lt;p>The spatial structure, composed of acrylic plates engraved with outlines of hands playing the harp strings.&lt;/p></description></item><item><title>Digital illustrations for Gestalt, psychology magazine</title><link>https://del-art.ca/art/gestalt_cg_collage/</link><pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate><guid>https://del-art.ca/art/gestalt_cg_collage/</guid><description>&lt;p>Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p></description></item><item><title>Drawings: Visual Elements for Graphic Design</title><link>https://del-art.ca/art/drawings_visuals/</link><pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate><guid>https://del-art.ca/art/drawings_visuals/</guid><description>&lt;p>The drawing is the basis for any genre of art or a visual form of expression. It is very advantageous to use sketches and drawings in the design phase as well as in the final product.&lt;/p></description></item><item><title>Optical Illusion</title><link>https://del-art.ca/art/op_art_motives/</link><pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate><guid>https://del-art.ca/art/op_art_motives/</guid><description>&lt;p>Optical illusion is a meaningful manifestation of our perception, illustration of most basic phenomena. It is the opening of our thought on the proces of development, and consequently enabling deep reflection on cognitive abilities and worldview foundations. Visual perception is the source and opportunity to develop and work on experiences that are very close, intimate, and subjective, easily accessible to our reflection, and at the same time those are sensations common and available for everybody interested.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arts on D &amp; E Wieczorek    DEL-ART</title>
+    <link>https://del-art.ca/art/</link>
+    <description>Recent content in Arts on D &amp; E Wieczorek    DEL-ART</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://del-art.ca/art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drawings</title>
+      <link>https://del-art.ca/art/drawings/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://del-art.ca/art/drawings/</guid>
+      <description>&lt;p&gt;Drawing for me is the analytical part of creative work, it is a record of the process of thoughts. The sketchiness of the drawing is not a bad feature. As the art is not a higher level of a craft, the photographic feature of the image is not paramount to the drawing study or a picture.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cross-eye Stereoscopy</title>
+      <link>https://del-art.ca/art/3d_crossey/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://del-art.ca/art/3d_crossey/</guid>
+      <description>&lt;p&gt;Cross-eyed stereoscopic imagery is the simplest technique to experience the esthetic of the spatial perception.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Painting</title>
+      <link>https://del-art.ca/art/painting/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://del-art.ca/art/painting/</guid>
+      <description>&lt;p&gt;My painting is usually executed in oil or acrylic, and painting sketches in watercolor or temper (acrylic temper). As my biggest interest is in visual perception, I lean towards impressionist, post-impressionist, but generally, realistic art, though I am very inspired by the subjective, individualistic, and expressionistic approach.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Z-Depth based Steroscopy</title>
+      <link>https://del-art.ca/art/3d_z-depth_hood/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://del-art.ca/art/3d_z-depth_hood/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I was quite surprised to learn 3D video editing methods by converting source footage using depth maps. But in fact, it became obvious that this method is effective and, above all, gives great control over the editing process as perfecting the visual storytelling.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3D laser cut acrylic model</title>
+      <link>https://del-art.ca/art/3d_object/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://del-art.ca/art/3d_object/</guid>
+      <description>&lt;p&gt;The spatial structure, composed of acrylic plates engraved with outlines of hands playing the harp strings.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital illustrations for Gestalt, psychology magazine</title>
+      <link>https://del-art.ca/art/gestalt_cg_collage/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://del-art.ca/art/gestalt_cg_collage/</guid>
+      <description>&lt;p&gt;Illustrations for Gestalt Magazine are digital collages created from photos, scans, traditional and digital drawings and ink paintings.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Drawings: Visual Elements for Graphic Design</title>
+      <link>https://del-art.ca/art/drawings_visuals/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://del-art.ca/art/drawings_visuals/</guid>
+      <description>&lt;p&gt;The drawing is the basis for any genre of art or a visual form of expression. It is very advantageous to use sketches and drawings in the design phase as well as in the final product.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Optical Illusion</title>
+      <link>https://del-art.ca/art/op_art_motives/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://del-art.ca/art/op_art_motives/</guid>
+      <description>&lt;p&gt;Optical illusion is a meaningful manifestation of our perception, illustration of most basic phenomena. It is the opening of our thought on the proces of development, and consequently enabling deep reflection on cognitive abilities and worldview foundations. Visual perception is the source and opportunity to develop and work on experiences that are very close, intimate, and subjective, easily accessible to our reflection, and at the same time those are sensations common and available for everybody interested.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
