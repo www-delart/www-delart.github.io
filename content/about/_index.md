@@ -3,10 +3,10 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About Us"
 +++
 
-Darius and Elizabeth
+Darius and Elizabeth</br>
 We are visual artists and graphic designers living in Hamilton, Ontario.
 
-We have several years of experience in art, graphic design, and advertisement,
+We have several years of experience in art, graphic design, and advertisement,</br>
 including estimates and supervision, especially in printing and digital publishing.
 
 ![sample image](/img/portfolio/D+E_portrait.jpg)
@@ -42,4 +42,4 @@ including estimates and supervision, especially in printing and digital publishi
 
 ##### Other artistic references
 
-See the gallery at <a href="https://malara.ca/" target="_blank">malara.ca</a>.
+<p>See the gallery at <a href="https://malara.ca/" target="_blank">malara.ca</a>.</p>
