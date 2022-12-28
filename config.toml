@@ -1,6 +1,6 @@
 baseURL = "https://del-art.ca/"
 languageCode = "en-us"
-title = "D and E Wieczorek    DEL-ART"
+title = "DEL-ART"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "public"
 

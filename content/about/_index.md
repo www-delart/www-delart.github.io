@@ -11,7 +11,7 @@ including estimates and supervision, especially in printing and digital publishi
 
 ![sample image](/img/portfolio/D+E_portrait.jpg)
 
-##### Experienced in:
+##### Experienced in
 
 * Artistic Painting in Oil and Acrylic, Life Drawing
 * Adobe Photoshop, InDesign, Illustrator, PageMaker, and CorelDraw
@@ -20,14 +20,14 @@ including estimates and supervision, especially in printing and digital publishi
 * Stereoscopic 3D conversion, modeling, editing
 * Maya, Nuke, Mocha
 
-##### Expertise:
+##### Expertise
 
 * Perfect color recognition
 * Graphic design principles
 * Color measure and calibration
 * Maintenance of equipment
 
-##### Job Duties:
+##### Job Duties
 
 * Design & creation of magazine layouts
 * Collaboration with marketing teams and management to develop brand strategies and materials
@@ -40,6 +40,6 @@ including estimates and supervision, especially in printing and digital publishi
 * Academy of Fine Arts Diploma, Krakow, Poland, major in Painting and minor in Animated Drawing
 * High School of Visual Arts, Poland, Industrial Design and Exhibitions
 
-##### Other artistic references:
+##### Other artistic references
 
-See the gallery at <a href="https://malara.ca/" target="_blank">malara.ca</a>
+<p>See the gallery at <a href="https://malara.ca/" target="_blank">malara.ca</a></p>
