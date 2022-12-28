@@ -42,4 +42,4 @@ including estimates and supervision, especially in printing and digital publishi
 
 ##### Other artistic references
 
-<p>See the gallery at <a href="https://malara.ca/" target="_blank">malara.ca</a></p>
+See the gallery at <a href="https://malara.ca/" target="_blank">malara.ca</a>.
