@@ -16,13 +16,8 @@ googleAnalytics = ""
   description = "Darius Wieczorek"
   copyright = "&copy;2021 Darius Wieczorek"
   sidebarAbout = [
-<<<<<<< Updated upstream
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Krakow, currently based in Toronto."
-=======
     "We are a creative illustrators and graphic designers with more than 10 years of experience.",
     "Originally from Krakow, currently based in Hamilton, Ontario."
->>>>>>> Stashed changes
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
