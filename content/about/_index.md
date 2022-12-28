@@ -42,4 +42,5 @@ including estimates and supervision, especially in printing and digital publishi
 
 ##### Other artistic references
 
-See the **[Elizabeth Malara-Wieczorek](https://malara.ca/)** gallery.
+See the **[Elizabeth Malara-Wieczorek online gallery][def]**.
+[def]: https://malara.ca/
