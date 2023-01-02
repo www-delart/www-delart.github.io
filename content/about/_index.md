@@ -4,6 +4,7 @@ title = "About Us"
 +++
 
 ##### Darius and Elizabeth
+
 We are visual artists and graphic designers living in Hamilton, Ontario.
 
 We have several years of experience in art, graphic design, and advertisement, </br>
@@ -43,4 +44,5 @@ including estimates and supervision, especially in printing and digital publishi
 ##### Other artistic references
 
 See the **[Elizabeth Malara-Wieczorek online gallery][def]**.
+
 [def]: https://malara.ca/
