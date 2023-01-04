@@ -41,7 +41,7 @@ including estimates and supervision, especially in printing and digital publishi
 * Academy of Fine Arts Diploma, Krakow, Poland, major in Painting and minor in Animated Drawing
 * High School of Visual Arts, Poland, Industrial Design and Exhibitions
 
-##### Other artistic references
+##### Other art portfolio
 
 See the **[Elizabeth Malara-Wieczorek online gallery][def]**.
 
