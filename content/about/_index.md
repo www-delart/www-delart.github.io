@@ -5,7 +5,7 @@ title = "About Us"
 
 ##### Darius and Elizabeth
 
-We are graphic designers andvisual artists living in Hamilton, Ontario.
+We are visual artists and graphic designers living in Hamilton, Ontario.
 
 We have several years of experience in art, graphic design, and advertisement, </br>
 including creating estimates and supervision of print and digital publishing.
