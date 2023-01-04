@@ -8,7 +8,7 @@ title = "About Us"
 We are graphic designers andvisual artists living in Hamilton, Ontario.
 
 We have several years of experience in art, graphic design, and advertisement, </br>
-including estimates and supervision, especially in printing and digital publishing.
+including creating estimates and supervision of print and digital publishing.
 
 ![sample image](/img/portfolio/D+E_portrait.jpg)
 
@@ -43,6 +43,4 @@ including estimates and supervision, especially in printing and digital publishi
 
 ##### Other artistic references
 
-See the **[Elizabeth Malara-Wieczorek online gallery][def]**.
-
-[def]: https://malara.ca/
+See the **<a href="//malara.ca/" target="_blank">Elizabeth Malara-Wieczorek online gallery</a>**.
