@@ -10,7 +10,7 @@ We are graphic designers and visual artists living in Hamilton, Ontario.
 We have several years of experience in art, graphic design, and advertisement, </br>
 including estimates and supervision, especially in printing and digital publishing.
 
-![sample image](/img/portfolio/D_E_new.jpg)
+![sample image](/img/portfolio/E_D_new24.jpg)
 
 ##### Experienced in
 
